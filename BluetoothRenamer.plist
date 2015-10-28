@@ -1,0 +1,9 @@
+{
+	Filter = {
+		Bundles = (
+			"com.apple.BTServer",
+			"com.apple.springboard",
+			"com.apple.Preferences"
+		);
+	};
+}

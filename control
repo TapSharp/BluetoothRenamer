@@ -1,0 +1,9 @@
+Package: com.tapsharp.bluetoothrenamer
+Name: Bluetooth Renamer
+Depends: firmware(>= 9.0), mobilesubstrate, preferenceloader
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Rename your Bluetooth Devices.
+Maintainer: TapSharp <tweaks@tapsharp.com>
+Author: TapSharp <tweaks@tapsharp.com>
+Section: Tweaks

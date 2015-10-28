@@ -4,6 +4,9 @@ Depends: firmware(>= 9.0), mobilesubstrate, preferenceloader
 Version: 1.0.0
 Architecture: iphoneos-arm
 Description: Rename your Bluetooth Devices.
-Maintainer: TapSharp <tweaks@tapsharp.com>
 Author: TapSharp <tweaks@tapsharp.com>
+Maintainer: TapSharp <tweaks@tapsharp.com>
+Sponsor: TapSharp <tweaks@tapsharp.com>
+Icon: file:///Library/PreferenceBundles/BluetoothRenamerPrefs.bundle/bluetooth.png
 Section: Tweaks
+Tags:bluetooth,tapsharp
